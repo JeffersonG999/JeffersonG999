@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeffersonG999
 - 👀 I’m interested in PHP Drupal, C# Unity, C++ Unreal Engine 
-- 🌱 I’m currently learning Drupal 10, React JS, Python 
+- 🌱 I’m currently learning Drupal 10, React JS, Python, C# Unity, C++ Unreal Engine
 - 💞️ I’m looking to collaborate on Funny project
 - 📫 How to reach me govenjeff@gmail.com
 
